@@ -1,0 +1,13 @@
+[
+    {
+        "id":1,
+        "imgsrc":"/static/images/1.jpg",
+        "name":"Marko Zaror Chidi"
+    },
+    {
+        "id":2,
+        "imgsrc":"/static/images/2.jpg",
+        "name":"Marko Zaror Chidi"
+    }
+
+]
